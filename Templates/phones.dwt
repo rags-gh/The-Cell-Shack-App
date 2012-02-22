@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27223807-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	color: #34b4e3;
+}
+body {
+	background-color: #000000;
+}
+a:link {
+	color: #FFF;
+}
+a:visited {
+	color: #FFF;
+}
+a:hover {
+	color: #FFF;
+}
+a:active {
+	color: #FFF;
+}
+</style>
+</head>
+
+<body>
+<table width="100%" border="0">
+  <tr>
+    <td width="29%" valign="top">Based on your selections, the phone  you should get is</td>
+    <td width="38%" valign="top"><!-- TemplateBeginEditable name="EditRegion3" --><!-- TemplateEndEditable --></td>
+    <td width="33%" valign="top"><p>Try again? <a href="../carrier.php">Click here</a>          </p><form id="form1" name="form1" method="post" action="post.php">
+            <input type="submit" style="border-width: 2px; border-style: dotted; border-color: #34b4e3; color: #34b4e3; background-color: #000000;"name="wallPost" id="wallPost" value="Post to Wall" />
+    </form></p></td>
+  </tr>
+  <tr>
+    <td><!-- TemplateBeginEditable name="EditRegion4" --><!-- TemplateEndEditable --></td>
+    <td><!-- TemplateBeginEditable name="EditRegion5" --><!-- TemplateEndEditable --></td>
+    <td><!-- TemplateBeginEditable name="EditRegion6" --><!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+</body>
+</html>
